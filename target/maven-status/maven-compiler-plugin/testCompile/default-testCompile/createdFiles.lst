@@ -1,0 +1,6 @@
+commonFunctions\AdminLoginPage.class
+driverFactory\AppTest.class
+utilities\ExcelFileUtil.class
+commonFunctions\AdminLogoutPage.class
+config\AppUtil.class
+commonFunctions\CustomerPage.class
